@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlairson
-- 👀 I’m interested in **Python JavaScript SQL and MORE 
-- 🌱 I’m currently learning **React JS
+- 👀 I’m interested in **Python JavaScript SQL and MORE**
+- 🌱 I’m currently learning **React JS**
 - 📫 How to reach me [john.lairson@aspireindiana.org](mailto:john.lairson@aspireindiana.org)
 
 <!---
